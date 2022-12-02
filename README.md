@@ -6,4 +6,4 @@ Some description
 
 ## subheader
 
-Watch me become a pro from nothing.
+To be programmer you must be a nerd.
